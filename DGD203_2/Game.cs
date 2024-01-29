@@ -247,7 +247,7 @@ namespace DGD203_2
 
         public void exiting()
         {
-            Console.WriteLine("Thanks for trying out our game, till next time <3!");
+            Console.WriteLine("Thanks for trying out our game, till next time.");
             _gameRunning = false;
         }
 
