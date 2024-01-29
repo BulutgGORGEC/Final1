@@ -338,8 +338,8 @@ W: Go up
 S: Go down
 A: Go left
 D: Go right
-WHERE: Your current coordnts
-WHO: In case you hit your head and forget who you are
+WHERE: Your current coordinates
+WHO: Your name
 CLEAR: Clear the screen
 TAKE: Take item
 INVENTORY: Open Inventory
